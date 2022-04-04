@@ -6,7 +6,7 @@ import tensorflow as tf
 import tensorflow.compat.v1 as tf
 import sys
 
-# This is needed since the notebook is stored in the object_detection folder.
+# This is needed since the notebook is stored in the object_detection folder
 sys.path.append("..")
 
 # Import utilites
